@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Personas</title>
+</head>
+<body>
+<h1>Sistema de Administracion de Personas (SAP)</h1>
+<h2>Cantidad personas: {{no_personas}}</h2>
+<a href="/nueva_persona/">Crear nueva persona</a>
+
+{% if personas %}
+<div>
+    <ul>
+        {% for persona in personas %}
+            <li>{{persona.id}} | {{persona.nombre}} | {{persona.apellido}}
+                <a href="/detalle_persona/{{persona.id}}">| Ver detalle</a> |
+                <a href="/actualizar_persona/{{persona.id}}">Actualizar</a> |
+                <a href="/eliminar_persona/{{persona.id}}">Eliminar</a></li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+</body>
+</html>

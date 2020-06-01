@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5032866c-4f92-4c4c-9ae1-8560bb1a689b" name="Default Changelist" comment="" />
+    <list default="true" id="5032866c-4f92-4c4c-9ae1-8560bb1a689b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/actualizar_persona.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/detalle-persona.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/nueva_persona.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/personas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/saludo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sap/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sap/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ceXY12Jfzl3zq8IJyDaQAWxJZg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +43,8 @@
       <option name="presentableId" value="Default" />
       <updated>1590890076200</updated>
       <workItem from="1590890086691" duration="88000" />
-      <workItem from="1590890226638" duration="3632000" />
+      <workItem from="1590890226638" duration="4368000" />
+      <workItem from="1590981501467" duration="6376000" />
     </task>
     <servers />
   </component>
@@ -37,9 +52,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="426" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590987619614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1590987619614" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1590896034910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1590896034910" />
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1590890226927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1590890226927" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590985547260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1590985547260" />
   </component>
 </project>
